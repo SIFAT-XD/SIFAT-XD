@@ -110,18 +110,6 @@ const SIFAT = {
 <a href="https://facebook.com/shifat.ff.buy.sell"><img title="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
 
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=UtpalOngkon)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-
-#### 📊This Week I Spent My Time On:⏰🕜
-<h3 align="center">
-  
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
-
-<a href="https://github.com/avinal/Profile-Readme-WakaTime"><img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity" align=center/></a>
-
-  
  # 💻 Tech Stack:
 <h3 align="center">
 

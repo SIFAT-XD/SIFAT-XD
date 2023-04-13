@@ -1,10 +1,10 @@
-<p align="center"><img src="https://github.com/U7P4L-IN/U7P4L-IN/blob/main/header_.png">
+<p align="center"><img src="https://github.com/SIFAT-XD/SIFAT-XD/blob/main/header_.png">
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 <h3 align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLDS,+MY+NAME+IS+ANONYMOUS+U7P4L;I'M+19+YEAR'S+OLD;I'M+FROM+BANGLADESH;I'M+GRADUATED+SYSTEM+DEVELOPMENT;BE+WELCOME!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLDS,+MY+NAME+IS+MASUDUR+RAHMAN+SIFAT+U7P4L;I'M+17+YEAR'S+OLD;I'M+FROM+BANGLADESH;I'M+GRADUATED+SYSTEM+DEVELOPMENT;BE+WELCOME!+:%29)](https://git.io/typing-svg)
 
 <p align="center"> <a href="https://archcraft.io"><img src="https://raw.githubusercontent.com/archcraft-os/.github/main/profile/assets/logo.gif" height="128" width="128" alt="Archcraft"></a>   
   
@@ -16,7 +16,7 @@
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 <h3 align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+AM+ANONYMOUS+U7P4L+M4X;+IT's+NOT+A+JUST+NAME+BRO;IT's+A+BRAND;THANK+YOU+EVERYONE+LvuAll)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+AM+SIFAT;+IT's+NOT+A+JUST+NAME+BRO;IT's+A+BRAND;THANK+YOU+EVERYONE+LOVE+ALL)](https://git.io/typing-svg)
 
 </p>
   
@@ -27,28 +27,28 @@
 </div>  
 
 <p align="center">
-<a href="https://U7P4L-IN.github.io/" target="_blank">
+<a href="https://SIFAT-XD.github.io/" target="_blank">
    <img src="https://img.shields.io/badge/-PORTFOLIO-black?logo=dialogflow&style=for-the-badge">
 </a>
 
 <p align="center">
 
- <img src="https://visitor-badge.feriirawann.repl.co?username=U7P4L-IN&repo=U7P4L-IN&label=Visitor&style=social&color=%23457BFF&contentType=svg"/>
- <a href="https://github.com/U7P4L-IN"><img src="https://img.shields.io/github/followers/U7P4L-IN?label=followers&style=social"/></a>
-<img src="https://img.shields.io/github/stars/U7P4L-IN?label=Stars&style=social" alt="GitHub Badge"> 
+ <img src="https://visitor-badge.feriirawann.repl.co?username=SIFAT-XD&repo=SIFAT-XD&label=Visitor&style=social&color=%23457BFF&contentType=svg"/>
+ <a href="https://github.com/SIFAT-XD"><img src="https://img.shields.io/github/followers/SIFAT-XD?label=followers&style=social"/></a>
+<img src="https://img.shields.io/github/stars/SIFAT-XD?label=Stars&style=social" alt="GitHub Badge"> 
 
-<p align='center'><img src="https://komarev.com/ghpvc/?username=U7P4L-IN&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="U7P4L-IN" />
+<p align='center'><img src="https://komarev.com/ghpvc/?username=SIFAT-XD&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="SIFAT-XD" />
 <a href="https://api.daily.dev/get?r=CyberCarboon2"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a>
-<p align='center'><a href="https://api.daily.dev/get?r=U7P4L-IN">
+<p align='center'><a href="https://api.daily.dev/get?r=SIFAT-XD">
 
 
-<p align="center"><img src="https://github.com/U7P4L-IN/U7P4L-IN/blob/main/giphy.webp">
+<p align="center"><img src="https://github.com/SIFAT-XD/SIFAT-XD/blob/main/giphy.webp">
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const U7P4L = {
+const SIFAT = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
@@ -84,11 +84,11 @@ const U7P4L = {
 ## 🏆 GitHub Trophies
 <h3 align="center">
 
-![U7P4L-IN](https://github-profile-trophy.vercel.app/?username=U7P4L-IN&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![SIFAT-IN](https://github-profile-trophy.vercel.app/?username=U7P4L-IN&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- HacktoberFest Badges -->
 
-[![An image of @U7P4L-IN's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amajaying3)](https://holopin.io/@U7P4L-IN)
+[![An image of @SIFAT-XD's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amajaying3)](https://holopin.io/@SIFAT-XD)
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
@@ -97,20 +97,17 @@ const U7P4L = {
 </div>
 
 
-<img src="https://github.com/U7P4L-IN/U7P4L-IN/blob/main/275750433_726130698764464_6531454219054912316_n.gif"/>
+<img src="https://github.com/SIFAT-XD/SIFAT-XD/blob/main/275750433_726130698764464_6531454219054912316_n.gif"/>
 
-<img src="https://github.com/U7P4L-IN/U7P4L-IN/blob/main/ezgif.com-video-to-gif.gif"/>
+<img src="https://github.com/SIFAT-XD/SIFAT-XD/blob/main/ezgif.com-video-to-gif.gif"/>
 
 
  <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-contact.png" /><i> Connect With Me :</i></h2>
 <h3 align="center">
  
-<a href="https://t.me/utpalme"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mallickongkonutpal@gmail.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://youtube.com/UtpalMallickOngkon"><img title="Youtube" src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
-<a href="https://twitter.com/UtpalOngkon"><img title="Twitter" src="https://img.shields.io/badge/Twitter-12100E?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://facebook.com/utpal.xr"><img title="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
-<a href="https://instagram.com/utpal_officials"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mshifat838@gmail.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://youtube.com/@shifattechnicalthech5516"><img title="Youtube" src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://facebook.com/shifat.ff.buy.sell"><img title="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
 
 
 ## 🐦 Latest Tweet
@@ -268,7 +265,7 @@ const U7P4L = {
 
 ![U7P4L-IN](https://user-images.githubusercontent.com/87250241/154004616-9ada377d-645e-4146-b521-07a16bc7900b.gif)
 
-<img src="https://github.com/U7P4L-IN/U7P4L-IN/blob/main/hacker.gif"/>
+<img src="https://github.com/SIFAT-XD/SIFAT-XD/blob/main/hacker.gif"/>
 
 ![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/md7Oqrf.gif)
 
@@ -282,16 +279,16 @@ const U7P4L = {
         </a>
     </div>
 
-  ![U7P4L-IN](https://github-readme-stats.vercel.app/api?username=U7P4L-IN&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+  ![SIFAT-XD](https://github-readme-stats.vercel.app/api?username=SIFAT-XD&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-<a href="https://app.dooboo.io/HwangTaehyun"><img src="https://server.dooboo.io/github-stats/U7P4L-IN" width="600" /></a>
+<a href="https://app.dooboo.io/HwangTaehyun"><img src="https://server.dooboo.io/github-stats/SIFAT-XD" width="600" /></a>
   
-  <img src="https://metrics.lecoq.io/U7P4L-IN?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka">
+  <img src="https://metrics.lecoq.io/SIFAT-XD?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka">
 </p>  
   
-![U7P4L-IN](https://github-readme-streak-stats.herokuapp.com/?user=U7P4L-IN&theme=dark&hide_border=false)<br/>
+![SIFAT-XD](https://github-readme-streak-stats.herokuapp.com/?user=SIFAT-XD&theme=dark&hide_border=false)<br/>
 
-<a href="http://www.github.com/U7P4L-IN"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=U7P4L-IN&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/SIFAT-XD"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=SIFAT-XD&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="300" />  
   
